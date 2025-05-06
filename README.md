@@ -1,0 +1,1 @@
+# AFD-Apex-Domain-Revalidator
